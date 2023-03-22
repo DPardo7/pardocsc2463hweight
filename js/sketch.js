@@ -99,7 +99,7 @@ function setup() {
 }
 
 function draw() {
-  text('Press the Button to start the music!', 0, 480);
+  text('Press the Button to start the sounds and music!', 0, 480);
 
   noStroke();
   for(i = 0; i < colors.length; i++)
